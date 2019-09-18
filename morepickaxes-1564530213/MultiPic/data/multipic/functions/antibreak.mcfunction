@@ -1,0 +1,5 @@
+execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_pickaxe",tag:{Damage:1560,Enchantments:[{id:"minecraft:mending"}]}}}] run effect give @s minecraft:mining_fatigue 1 5
+execute as @a[nbt={SelectedItem:{id:"minecraft:iron_pickaxe",tag:{Damage:249,Enchantments:[{id:"minecraft:mending"}]}}}] run effect give @s minecraft:mining_fatigue 1 5
+execute as @a[nbt={SelectedItem:{id:"minecraft:stone_pickaxe",tag:{Damage:130,Enchantments:[{id:"minecraft:mending"}]}}}] run effect give @s minecraft:mining_fatigue 1 5
+execute as @a[nbt={SelectedItem:{id:"minecraft:wooden_pickaxe",tag:{Damage:58,Enchantments:[{id:"minecraft:mending"}]}}}] run effect give @s minecraft:mining_fatigue 1 5
+execute as @a[nbt={SelectedItem:{id:"minecraft:golden_pickaxe",tag:{Damage:31,Enchantments:[{id:"minecraft:mending"}]}}}] run effect give @s minecraft:mining_fatigue 1 5
